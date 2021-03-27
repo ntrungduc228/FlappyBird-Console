@@ -1,0 +1,32 @@
+﻿  main.cpp
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\myLib.h(155,28): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\myLib.h(155,34): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\myLib.h(169,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\myLib.h(190,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\myLib.h(214,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(118,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(155,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(180,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(185,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(190,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(195,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(234,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(251,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(258,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(265,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(272,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(279,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(309,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(316,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(323,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(330,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(337,12): warning C4309: '=': truncation of constant value
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(392,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(464,6): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(715,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(721,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(727,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(733,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(770,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\flappyBirdConsole\main.cpp(829,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  flappyBirdConsole.vcxproj -> C:\Users\ASUS Vivo\Desktop\my projects\flappyBirdConsole\x64\Debug\flappyBirdConsole.exe

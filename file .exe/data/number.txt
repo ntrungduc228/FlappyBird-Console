@@ -1,0 +1,63 @@
+
+NNN
+N N
+N N
+N N
+NNN
+0
+ N 
+ N
+ N 
+ N 
+ N 
+1
+NNN
+  N
+NNN
+N
+NNN
+2
+NNN
+  N
+NNN
+  N
+NNN
+3
+N N
+N N
+NNN
+  N
+  N
+4
+NNN
+N  
+NNN
+  N
+NNN
+5
+NNN
+N  
+NNN
+N N
+NNN
+6
+NNN
+  N
+  N
+  N
+  N
+7
+NNN
+N N
+NNN
+N N
+NNN
+8
+NNN
+N N
+NNN
+  N
+NNN
+
+
+
